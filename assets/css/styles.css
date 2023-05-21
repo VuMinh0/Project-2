@@ -23,7 +23,7 @@ body {
 .btn {
     display: inline-block;
     min-width: 118px;
-    padding: 0 0px;
+    padding: 0 16px;
     font-size: 1.6rem;
     font-weight: 600;
     line-height: 50px;
